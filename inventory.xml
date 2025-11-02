@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+    <item>
+        <id>101</id>
+        <name>书柜</name>
+        <category>储物家具</category>
+        <quantity>15</quantity>
+        <unit_price>399.00</unit_price>
+    </item>
+    <item>
+        <id>102</id>
+        <name>拉克边桌</name>
+        <category>桌子</category>
+        <quantity>7</quantity>
+        <unit_price>59.90</unit_price>
+    </item>
+    <item>
+        <id>103</id>
+        <name>扶手椅</name>
+        <category>座椅</category>
+        <quantity>5</quantity>
+        <unit_price>599.00</unit_price>
+    </item>
+    <item>
+        <id>104</id>
+        <name>收纳盒</name>
+        <category>储物整理</category>
+        <quantity>22</quantity>
+        <unit_price>19.90</unit_price>
+    </item>
+    <item>
+        <id>105</id>
+        <name>工作灯</name>
+        <category>照明</category>
+        <quantity>9</quantity>
+        <unit_price>79.90</unit_price>
+    </item>
+</inventory>
